@@ -1,3 +1,5 @@
 # Cours 12
 ## Préparation de la présentation 3 
-Joindre des images de votre tempête d'idée et des esquisses de votre projet. Expliquer en 2 à 3 lignes votre projet. 
+
+![image](https://user-images.githubusercontent.com/112189750/209206334-28e3c649-b655-4d19-8bd6-22e8b5815b57.png)
+
